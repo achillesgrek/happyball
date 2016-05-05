@@ -1,0 +1,46 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x683d)
+    Vendor:   ATI
+    VRAM:     1007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.137 seconds
+Platform assembly: C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Achilles\Desktop\android.projekt\TESTOWA\MarcinWezZagrajNo!_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.773721 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: fe8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.702387 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 227.
+Total: 0.271474 ms (FindLiveObjects: 0.022654 ms CreateObjectMapping: 0.024958 ms MarkObjects: 0.210805 ms  DeleteObjects: 0.012671 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.602466 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.302192 ms (FindLiveObjects: 0.031102 ms CreateObjectMapping: 0.021502 ms MarkObjects: 0.244979 ms  DeleteObjects: 0.003839 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.921170 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 787.
+Total: 0.522982 ms (FindLiveObjects: 0.064124 ms CreateObjectMapping: 0.071804 ms MarkObjects: 0.370541 ms  DeleteObjects: 0.015743 ms)
+
