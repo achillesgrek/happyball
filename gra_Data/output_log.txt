@@ -16,33 +16,9 @@ Platform assembly: A:\repository\happy\gra_Data\Managed\UnityEngine.UI.dll (this
 Loading A:\repository\happy\gra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: A:\repository\happy\gra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading A:\repository\happy\gra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.069 seconds
+- Completed reload, in  0.376 seconds
 Platform assembly: A:\repository\happy\gra_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: A:\repository\happy\gra_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 0.927320 ms
-Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1b64 -> priority: 1 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.932335 ms
-
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 817.
-Total: 0.590950 ms (FindLiveObjects: 0.103675 ms CreateObjectMapping: 0.044542 ms MarkObjects: 0.425453 ms  DeleteObjects: 0.016511 ms)
-
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.075922 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 866.
-Total: 0.579431 ms (FindLiveObjects: 0.068733 ms CreateObjectMapping: 0.036094 ms MarkObjects: 0.463852 ms  DeleteObjects: 0.009983 ms)
-
-Player Respawn
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Player Respawn
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-

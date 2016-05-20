@@ -1,0 +1,68 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x683d)
+    Vendor:   ATI
+    VRAM:     1007 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: A:\repository\happy\gra\gra_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading A:\repository\happy\gra\gra_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: A:\repository\happy\gra\gra_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading A:\repository\happy\gra\gra_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: A:\repository\happy\gra\gra_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading A:\repository\happy\gra\gra_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: A:\repository\happy\gra\gra_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading A:\repository\happy\gra\gra_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: A:\repository\happy\gra\gra_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading A:\repository\happy\gra\gra_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.084 seconds
+Platform assembly: A:\repository\happy\gra\gra_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: A:\repository\happy\gra\gra_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.995274 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1fb0 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.795668 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 817.
+Total: 0.535267 ms (FindLiveObjects: 0.075643 ms CreateObjectMapping: 0.057596 ms MarkObjects: 0.386667 ms  DeleteObjects: 0.014975 ms)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Player Respawn
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.019081 ms
+
+Unloading 131 unused Assets to reduce memory usage. Loaded Objects now: 244.
+Total: 0.453863 ms (FindLiveObjects: 0.030334 ms CreateObjectMapping: 0.036478 ms MarkObjects: 0.226931 ms  DeleteObjects: 0.158967 ms)
+
